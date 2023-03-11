@@ -10,7 +10,7 @@ body{
 	background-color: rgba(0, 0, 0, .5);
 	width:50%;
     height: auto;
-    position: relative;
+    position: auto;
     margin: auto;
     padding: 2em;
 	border-radius: 1em;
@@ -23,3 +23,6 @@ font{
 p {
 	background-image: url("../img/fondo.jpg");
   }
+ .viewport{
+	width:auto;
+ } 
