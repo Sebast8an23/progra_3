@@ -5,3 +5,21 @@ body{
 	background-size: cover;
 	color: #FFFFFF;
 }
+.caja1
+{
+	background-color: rgba(0, 0, 0, .5);
+	width:50%;
+    height: auto;
+    position: relative;
+    margin: auto;
+    padding: 2em;
+	border-radius: 1em;
+	color:black;
+	float:right;
+}
+font{
+	color: #FFFFFF;
+}
+p {
+	background-image: url("../img/fondo.jpg");
+  }
