@@ -1,0 +1,21 @@
+body{
+	background-image: url('../img/fondo.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #FFFFFF;
+}
+.caja1
+{
+	background-color: rgba(0, 0, 0, .5);
+	width:20em;
+    height: auto;
+    position: relative;
+    margin: auto;
+    padding: 2em;
+	border-radius: 1em;
+	color:black;
+}
+font{
+	color: #28a71c;
+}
