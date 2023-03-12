@@ -4,7 +4,7 @@ function comprobarClave(){
 
 	if(clave1 == "examen" && clave2 == "zoologico"){
 		alert("Los datos coinciden...\n Bienvenido");
-			var href = "html/personal.html";
+			var href = "personal.html";
 			window.location=href;
 	}
 	else{
